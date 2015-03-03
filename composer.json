@@ -12,9 +12,9 @@
     "require": {
 		"php": ">=5.3.0"
 	},
-	"autoload":{
-		"mpdf": {
-            "mpdf\\mpdf57\\": "mpdf57/"            
+	"autoload":{		
+		"psr-4": {
+           "mpdf\\mpdf57\\": "mpdf57"		   
         }
 	}
 }
