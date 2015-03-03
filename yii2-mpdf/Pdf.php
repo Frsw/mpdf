@@ -211,8 +211,8 @@ class Pdf extends Component
             $this->marginFooter,
             $this->orientation
         );
-		//$this->_mpdf->useAdobeCJK = true;
-		//$this->_mpdf->showWatermarkText = true;
+		$this->_mpdf->useAdobeCJK = true;
+		$this->_mpdf->showWatermarkText = true;
 		$this->_mpdf->SetAutoFont();
     }
 
