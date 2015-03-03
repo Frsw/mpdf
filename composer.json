@@ -15,7 +15,7 @@
 	"autoload":{		
 		"psr-4": {
            "mpdf\\mpdf57\\": "mpdf57",		   
-		   "mpdf\\mpdf57\\": "yii2-mpdf",
+		   "mpdf\\mpdf57\\": "yii2-mpdf"
         }
 	}
 }
