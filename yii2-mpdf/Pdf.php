@@ -8,9 +8,9 @@
 
 namespace mpdf\mpdf57;
 
-//use Yii;
-//use yii\base\Component;
-//use yii\base\InvalidParamException;
+use Yii;
+use yii\base\Component;
+use yii\base\InvalidParamException;
 use \mPDF;
 
 /**
